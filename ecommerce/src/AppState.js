@@ -5,7 +5,6 @@ export default class App extends Component {
   state = {
     tname: "aleem",
     subject: "FullStackDevelopment",
-    color:"blue",
     section: "section d"
   };
 
